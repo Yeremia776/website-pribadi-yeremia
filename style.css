@@ -41,7 +41,7 @@ html {
 }
 
 .container-content {
-    background-color: rgb(12,12,12);
+    background-color: rgb(193, 62, 62);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,7 +50,7 @@ html {
 
 .a-content{
     background-color: white;
-    color: black;
+    color: white;
     text-decoration: none;
     font-size: 30px;
     width: 35%;
@@ -77,4 +77,5 @@ align-items: center;
 
 .h1-footer {
     font-size: 25px;
+    list-style: lower-alpha;
 }
